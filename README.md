@@ -1,2 +1,2 @@
 # lab1
-Create first website
+Lab 1 for ITMD 361
